@@ -9,6 +9,8 @@ Democracy Now! launched in 1996, airing on nine radio stations. More than two de
 
 As an independent news program, Democracy Now! is audience-supported, which means that our editorial independence is never compromised by corporate or government interests. Since our founding in 1996, Democracy Now! has held steadfast to our policy of not accepting government funding, corporate sponsorship, underwriting or advertising revenue.<br>
 
+<a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
+
 ^^^ To install this addon, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
 
 <a href="http://www.democracynow.org"><img src="https://www.democracynow.org/assets/dntv.jpeg">
